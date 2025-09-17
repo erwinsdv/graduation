@@ -1,0 +1,64 @@
+################################################################################
+
+Test data:
+- fluid/carb tracking setup 1
+
+WorkoutData(heart_rate=132, speed=13.0, temperature=20.0),
+WorkoutData(heart_rate=136, speed=13.3, temperature=20.5),
+WorkoutData(heart_rate=140, speed=13.6, temperature=21.0),
+WorkoutData(heart_rate=144, speed=13.9, temperature=21.5),
+WorkoutData(heart_rate=148, speed=14.2, temperature=22.0),
+WorkoutData(heart_rate=152, speed=14.5, temperature=22.5),
+WorkoutData(heart_rate=154, speed=14.7, temperature=23.0),
+WorkoutData(heart_rate=156, speed=14.9, temperature=23.5),
+WorkoutData(heart_rate=158, speed=15.1, temperature=24.0),
+WorkoutData(heart_rate=160, speed=15.3, temperature=24.5),
+WorkoutData(heart_rate=162, speed=15.5, temperature=25.0),
+WorkoutData(heart_rate=164, speed=15.7, temperature=25.5),
+WorkoutData(heart_rate=166, speed=15.9, temperature=26.0),
+WorkoutData(heart_rate=168, speed=16.1, temperature=26.5),
+WorkoutData(heart_rate=170, speed=16.3, temperature=27.0),
+WorkoutData(heart_rate=172, speed=16.5, temperature=27.5),
+WorkoutData(heart_rate=174, speed=16.7, temperature=28.0),
+WorkoutData(heart_rate=176, speed=16.9, temperature=28.5),
+WorkoutData(heart_rate=178, speed=17.1, temperature=29.0),
+WorkoutData(heart_rate=180, speed=17.3, temperature=29.5),
+WorkoutData(heart_rate=180, speed=18.0, temperature=30.0),
+
+
+################################################################################
+
+################################################################################
+
+Test data:
+- fluid/carb tracking setup 2
+
+WorkoutData(heart_rate=132, speed=10.0, temperature=20.0),
+WorkoutData(heart_rate=133, speed=10.1, temperature=20.1),
+WorkoutData(heart_rate=134, speed=10.3, temperature=20.2),
+WorkoutData(heart_rate=135, speed=10.4, temperature=20.3),
+WorkoutData(heart_rate=136, speed=10.6, temperature=20.4),
+WorkoutData(heart_rate=137, speed=10.7, temperature=20.5),
+WorkoutData(heart_rate=138, speed=10.8, temperature=20.6),
+WorkoutData(heart_rate=139, speed=10.9, temperature=20.7),
+WorkoutData(heart_rate=140, speed=11.0, temperature=20.8),
+WorkoutData(heart_rate=141, speed=11.1, temperature=20.9),
+WorkoutData(heart_rate=142, speed=11.2, temperature=21.0),
+WorkoutData(heart_rate=143, speed=11.3, temperature=21.1),
+WorkoutData(heart_rate=144, speed=11.4, temperature=21.2, drink_ml=300, eat_g=15),
+WorkoutData(heart_rate=145, speed=11.5, temperature=21.3),
+WorkoutData(heart_rate=145, speed=11.6, temperature=21.4),
+WorkoutData(heart_rate=145, speed=11.7, temperature=21.5),
+WorkoutData(heart_rate=145, speed=11.8, temperature=21.6),
+WorkoutData(heart_rate=145, speed=11.9, temperature=21.7),
+WorkoutData(heart_rate=145, speed=12.0, temperature=21.8),
+WorkoutData(heart_rate=145, speed=12.0, temperature=21.9),
+WorkoutData(heart_rate=145, speed=12.0, temperature=22.0),
+WorkoutData(heart_rate=145, speed=12.0, temperature=22.0),
+WorkoutData(heart_rate=145, speed=12.0, temperature=22.0),
+WorkoutData(heart_rate=145, speed=12.0, temperature=22.0),
+WorkoutData(heart_rate=145, speed=12.0, temperature=22.0),
+
+
+
+################################################################################
